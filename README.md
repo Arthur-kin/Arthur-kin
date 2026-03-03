@@ -1,16 +1,13 @@
-## Hi there 👋
+#  Hi, I'm Arthur-kin! 
 
-<!--
-**Arthur-kin/Arthur-kin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ 目前專注的領域
+- 💻 **系統環境**：正在調教我的 **Linux Mint**
+- 🏗️ **自建服務**：使用 **Docker** 部署 Vaultwarden 
+- 📖 **學習中**：考研的東東
 
-Here are some ideas to get you started:
+### 📊 我的戰鬥力數據
+![Arthur-kin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-kin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-kin&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛰️ 聯絡我
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?style=for-the-badge&logo=linkedin)](Starnow)
