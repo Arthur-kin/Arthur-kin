@@ -2,8 +2,8 @@
 
 ### 🛠️ 目前專注的領域
 - 💻 **系統環境**：正在調教我的 **Linux Mint**
-- 🏗️ **自建服務**：Vaultwarden 
-- 📖 **學習中**：考研的東東和學業
+- 🏗️ **自建服務**：Vaultwarden, gym, terriria-budget(ing)
+- 📖 **學習中**：CCNA certificate and Cybersecurity
 - [Hackmd note](https://hackmd.io/A4P9tHFbSpSdiSN9OiiqPg)
 
 ![Arthur-kin's GitHub status](https://github-readme-stats.vercel.app/api?username=Arthur-kin&show_icons=true&theme=tokyonight)
