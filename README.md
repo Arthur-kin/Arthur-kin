@@ -7,7 +7,7 @@
 </div>
 
 ## 🛠️ Current Focus
-- 💻 **OS & Environment**： Linux Mint
+- 💻 **OS & Environment**： Linux Mint, Ubuntu
 - 🏗️ **Self-Hosting**：Vaultwarden, gym-traker, terriria-budget*(WIP)*
 - 📖 **Learning**：CCNA certificate and Cybersecurity
 
