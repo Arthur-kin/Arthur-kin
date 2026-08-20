@@ -21,6 +21,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![SSO](https://img.shields.io/badge/SSO-Auth-4A154B?style=flat-square&logo=auth0&logoColor=white)
+![DNS / nslookup](https://img.shields.io/badge/DNS-nslookup-0078D4?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![LibreNMS](https://img.shields.io/badge/LibreNMS-E84D31?style=flat-square&logo=librenms&logoColor=white)
 ![NetBox](https://img.shields.io/badge/NetBox-004D7F?style=flat-square&logo=netbox&logoColor=white)
