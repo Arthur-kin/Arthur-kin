@@ -13,15 +13,21 @@
 
 ## 🧰 Tech Stack & Tools
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![SSO](https://img.shields.io/badge/SSO-Auth-4A154B?style=flat-square&logo=auth0&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![LibreNMS](https://img.shields.io/badge/LibreNMS-E84D31?style=flat-square&logo=librenms&logoColor=white)
 ![NetBox](https://img.shields.io/badge/NetBox-004D7F?style=flat-square&logo=netbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ## 📊 GitHub 
 
