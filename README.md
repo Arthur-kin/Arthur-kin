@@ -24,6 +24,7 @@
 ![DNS / nslookup](https://img.shields.io/badge/DNS-nslookup-0078D4?style=flat-square&logo=windows-terminal&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![LibreNMS](https://img.shields.io/badge/LibreNMS-E84D31?style=flat-square&logo=librenms&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CD685?style=flat-square&logo=uptime-kuma&logoColor=white)
 ![NetBox](https://img.shields.io/badge/NetBox-004D7F?style=flat-square&logo=netbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
