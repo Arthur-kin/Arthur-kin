@@ -6,12 +6,12 @@
   [![HackMD](https://img.shields.io/badge/HackMD-Notes-1f883d?style=flat-square&logo=markdown&logoColor=white)](https://hackmd.io/A4P9tHFbSpSdiSN9OiiqPg)
 </div>
 
-## 🛠️ Current Focus
-- 💻 **OS & Environment**： Linux Mint, Ubuntu
-- 🏗️ **Self-Hosting**：Vaultwarden, gym-traker, terriria-budget*(WIP)*
-- 📖 **Learning**：CCNA certificate and Cybersecurity
+##  Current Focus
+-  **OS & Environment**： Linux Mint, Ubuntu
+-  **Self-Hosting**：Vaultwarden, gym-traker, terriria-budget*(WIP)*
+-  **Learning**：CCNA certificate and Cybersecurity
 
-## 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
