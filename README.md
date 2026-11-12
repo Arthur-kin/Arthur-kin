@@ -33,7 +33,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-## 📊 GitHub 
+##  GitHub 
 
 <div align="center">
   <img src="https://github-readme-stats-swart-alpha-51.vercel.app/api?username=Arthur-kin&show_icons=true&bg_color=f6f8fa&title_color=d4af37&text_color=24292f&icon_color=c5a059&hide_border=true" height="150" alt="Arthur-kin's GitHub Stats" />
